@@ -1,5 +1,5 @@
 ## CalculatorAnnotation
-Write a calculator using annotations, the annotation passes 2 parameters.Complete documentation of all fields, methods, class constructors using the Documented instruction or documentation comments.
+Write a calculator using annotations, the calculator.annotation passes 2 parameters.Complete documentation of all fields, methods, class constructors using the Documented instruction or documentation comments.
 ## Java Advanced 6. Annotations
 ## Завдання 2
 
